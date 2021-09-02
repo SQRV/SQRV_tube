@@ -1,4 +1,5 @@
 # warna
+#git clone https://github.com/SQRV/SQRV_tube.git
 h="\033[32;1m"
 
 # module
